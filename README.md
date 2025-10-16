@@ -1,3 +1,5 @@
-# Exercícios de SQL
-<p>Alguns exercícios de queries na linguagem SQL que realizei durante meus estudos sobre Bancos de Dados.</p>
-<p>→ Status: Concluído</p>
+# Exercícios em SQL
+![Status](https://img.shields.io/badge/Status-Concluído-darkgreen)
+
+> Coleção de exercícios com "queries" na linguagem _SQL_ direcionadas à diferentes Bancos de Dados.
+>
